@@ -174,7 +174,7 @@ Lending Loop have been instrumental in making Canada’s alternative lending lan
 
 ![Lending Loop success article](images/LL-success.png)
 
-This is a [test...](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)
+*Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
 
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
