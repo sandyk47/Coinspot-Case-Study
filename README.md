@@ -1,4 +1,4 @@
-# Coinspot-Case-Study
+# Lending Loop Case Study
 
 ## 📖 Overview and Origin
 ___
