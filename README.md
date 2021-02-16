@@ -1,6 +1,6 @@
 # Coinspot-Case-Study
 
-## Overview and Origin
+## 📖 Overview and Origin
 
 ### Name of company
 Lending Loop
@@ -18,7 +18,7 @@ By identifying inefficiencies surrounding bank lending processes in Canada. Nota
 ### How is the company funded? How much funding have they received?
 Lending Loop have received US$40 million in funding.
 
-## Business Activities
+## 💱 Business Activities
 
 ### What specific financial problem is the company or project trying to solve?
 The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
@@ -105,7 +105,7 @@ According to G2 Stack:
 * Knit
 
 
-## Landscape:
+## 🤝 Landscape:
 
 ### What domain of the financial industry is the company in?
 Alternative Finance
@@ -144,7 +144,7 @@ Alternative Finance
 
 
  
-## Results
+## 📊 Results
 
 ### What has been the business impact of this company so far?
 
@@ -185,7 +185,7 @@ Credit Karma:	$1B
 Progressa:	$27.5M
 Affirm:		$4.1M
  
-## Recommendations
+## 🎯 Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 * Based on the success of ratesetter (Plenti), enable lenders to set their own desired rates of return, rather than selecting only the risk profiles of the companies they’re lending to. 
@@ -210,7 +210,7 @@ Other Idea (not relevant to above question), but they could also consider buildi
 
 
  
-### Sources:
+## 🔗 Sources:
 * https://www.statista.com/outlook/334/108/crowdlending--business-/canada
 * https://www.crunchbase.com/organization/lending-loop/technology
 * https://www.owler.com/company/lendingloop
