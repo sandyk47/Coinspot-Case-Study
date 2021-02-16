@@ -5,6 +5,7 @@ ___
 
 ### Name of company
 Lending Loop
+![](images/Lending-Loop.png)
 
 ### When was the company incorporated?
 2014
