@@ -13,6 +13,7 @@ ___
 ### Who are the founders of the company?
 
 ![Brandon Vlaar and Cato Pastoll (CEO)](images/lending-loop-founders.jpg)
+
 *[From left] Brandon Vlaar and Cato Pastoll (CEO)*
 
 
