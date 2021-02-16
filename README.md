@@ -65,58 +65,58 @@ According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecas
 
 According to G2 Stack:
 
-> Developer Stack:
->> Bootstrap
->> Git
->> HTML5
->> Javascript
->> Modernizr
->> Play
->> Ruby Ruby on Rails
->> JQuery
+**Developer Stack:**
+> Bootstrap
+> Git
+> HTML5
+> Javascript
+> Modernizr
+> Play
+> Ruby Ruby on Rails
+> JQuery
 
-> Product & Design Stack:
->> Adobe Typekit
->> Fonts.com
->> Google Fonts
+**Product & Design Stack:**
+> Adobe Typekit
+> Fonts.com
+> Google Fonts
 
-> Analytics & Data Science Stack
->> Amplitude
->> Google Analytics
->> Hotjar
+**Analytics & Data Science Stack**
+> Amplitude
+> Google Analytics
+> Hotjar
 
-> Devops and IT Stack
->> Amazon CloudFront
->> Amazon Route 53
->> Facebook Comments
->> Google Cloud DNS
->> Google Domains
->> Heroku
->> Netlify
->> New Relic
->> OpenResty
->> Vimeo
->> Wordpress
->> reCAPTCHA
+**Devops and IT Stack**
+> Amazon CloudFront
+> Amazon Route 53
+> Facebook Comments
+> Google Cloud DNS
+> Google Domains
+> Heroku
+> Netlify
+> New Relic
+> OpenResty
+> Vimeo
+> Wordpress
+> reCAPTCHA
 
-> Marketing Stack
->> Google Tag Manager
->> Malijet
->> Marin Audience Marketing Suite
->> Perfect Audience
->> Salesforce Pardot
+**Marketing Stack**
+> Google Tag Manager
+> Malijet
+> Marin Audience Marketing Suite
+> Perfect Audience
+> Salesforce Pardot
 
-> Productivity & Operations
->> G Suite
+**Productivity & Operations**
+> G Suite
 
-> Customer Support & Success
->> Help Scout
->> Salesforce Desk.com
->> SalesLoft
+**Customer Support & Success**
+> Help Scout
+> Salesforce Desk.com
+> SalesLoft
 
-> HR Stack
->> AngelList Jobs
->> Knit
+**HR Stack**
+> AngelList Jobs
+> Knit
 
 
 
