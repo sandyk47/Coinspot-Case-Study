@@ -10,7 +10,9 @@ Lending Loop
 2014
 
 ### Who are the founders of the company?
-Brandon Vlaar, Cato Pastoll (CEO)
+
+![[From left] Brandon Vlaar and Cato Pastoll (CEO)](images/lending-loop-founders.jpg)
+
 
 ### How did the idea for the company (or project) come about?
 By identifying inefficiencies surrounding bank lending processes in Canada. Notably, that individuals and businesses are being excluded from the lending process, leaving a significant amount of capital off the table. Lending Loop was the first company in Canada to support P2P lending in Canada.
