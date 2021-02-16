@@ -172,9 +172,9 @@ Lending Loop have been instrumental in making Canada’s alternative lending lan
 * More inclusive. Although Lending Loop enforce certain eligibility requirements for businesses seeking loans, anyone is able to lend money. They also have control over their risk profile, with risk-seeking investors standing to gain as much as 26% for riskier loans.
 * More competitive. As an entirely online business, Lending Loop pay little in terms of overheads. These are savings which can then be passed onto the customer.
 
-![Lending Loop success article](images/LL-success.png)
+![Lending Loop regulators](images/regulation.png)
 
-*Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
+*Article from 2016, when Lending Loop abandoned the 'Uber approach', opting instead to work slowly alongside Canada's regulatory officials to ensure [compliance](https://www.canadianbusiness.com/innovation/lending-loop-reboots/)*
 
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
@@ -188,7 +188,9 @@ Key metrics include
 
 As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to Canadian businesses, from 11,100 active lenders.
 
+![Lending Loop success article](images/LL-success.png)
 
+*Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
 
 ### How is your company performing relative to competitors in the same domain?
 
