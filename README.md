@@ -50,73 +50,73 @@
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-1. **Trust**. Lending Loop has a first mover advantage, in that it is Canada’s first approved online P2P lending platform.
-2. **Control**. transparency and flexibility. Lenders can literally tailor their own risk profile and investment appetite, then have it matched to borrowers based on those preferences. 
-3. **Cost Savings**. Less reliance on intermediaries charging their own markups and fees.
-4. **Uniqueness**.there are few competitors in this space offering a similar product. Lending Loop worked alongside Canada’s regulatory bodies to overcome key hurdles and challenges for P2P **lending**. There are still major hurdles in place.
-5. **Specialisation**. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
-
-![Lending Loop Dashboard](images/lending-loop-risks.jpg)
-
-*[Above] Some examples of the different risk profiles lenders can choose from*
+> 1. **Trust**. Lending Loop has a first mover advantage, in that it is Canada’s first approved online P2P lending platform.
+> 2. **Control**. transparency and flexibility. Lenders can literally tailor their own risk profile and investment appetite, then have it matched to borrowers based on those preferences. 
+> 3. **Cost Savings**. Less reliance on intermediaries charging their own markups and fees.
+> 4. **Uniqueness**.there are few competitors in this space offering a similar product. Lending Loop worked alongside Canada’s regulatory bodies to overcome key hurdles and challenges > for P2P **lending**. There are still major hurdles in place.
+> 5. **Specialisation**. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, > bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
+> 
+> ![Lending Loop Dashboard](images/lending-loop-risks.jpg)
+> 
+> *[Above] Some examples of the different risk profiles lenders can choose from*
 
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-*According to G2 Stack, Lending Loop utilise the following stack of technologies:*
-
-**Developer Stack:**
-> * Bootstrap
-> * Git
-> * HTML5
-> * Javascript
-> * Modernizr
-> * Play
-> * Ruby Ruby on Rails
-> * JQuery
-
-**Product & Design Stack:**
-> * Adobe Typekit
-> * Fonts.com
-> * Google Fonts
-
-**Analytics & Data Science Stack**
-> * Amplitude
-> * Google Analytics
-> * Hotjar
-
-**Devops and IT Stack**
-> * Amazon CloudFront
-> * Amazon Route 53
-> * Facebook Comments
-> * Google Cloud DNS
-> * Google Domains
-> * Heroku
-> * Netlify
-> * New Relic
-> * OpenResty
-> * Vimeo
-> * Wordpress
-> * reCAPTCHA
-
-**Marketing Stack**
-> * Google Tag Manager
-> * Malijet
-> * Marin Audience Marketing Suite
-> * Perfect Audience
-> * Salesforce Pardot
-
-**Productivity & Operations**
-> * G Suite
-
-**Customer Support & Success**
-> * Help Scout
-> * Salesforce Desk.com
-> * SalesLoft
-
-**HR Stack**
-> * AngelList Jobs
-> * Knit
+>*According to G2 Stack, Lending Loop utilise the following stack of technologies:*
+>
+>**Developer Stack:**
+>> * Bootstrap
+>> * Git
+>> * HTML5
+>> * Javascript
+>> * Modernizr
+>> * Play
+>> * Ruby Ruby on Rails
+>> * JQuery
+>
+>**Product & Design Stack:**
+>> * Adobe Typekit
+>> * Fonts.com
+>> * Google Fonts
+>
+>**Analytics & Data Science Stack**
+>> * Amplitude
+>> * Google Analytics
+>> * Hotjar
+>
+>**Devops and IT Stack**
+>> * Amazon CloudFront
+>> * Amazon Route 53
+>> * Facebook Comments
+>> * Google Cloud DNS
+>> * Google Domains
+>> * Heroku
+>> * Netlify
+>> * New Relic
+>> * OpenResty
+>> * Vimeo
+>> * Wordpress
+>> * reCAPTCHA
+>
+>**Marketing Stack**
+>> * Google Tag Manager
+>> * Malijet
+>> * Marin Audience Marketing Suite
+>> * Perfect Audience
+>> * Salesforce Pardot
+>
+>**Productivity & Operations**
+>> * G Suite
+>
+>**Customer Support & Success**
+>> * Help Scout
+>> * Salesforce Desk.com
+>> * SalesLoft
+>
+>**HR Stack**
+>> * AngelList Jobs
+>> * Knit
 
 
 
