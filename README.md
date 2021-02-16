@@ -5,10 +5,10 @@
 
 
 ### Name of company
-![Company Logo](images/Lending-Loop.png)
+> ![Company Logo](images/Lending-Loop.png)
 
 ### When was the company incorporated?
-2014
+> 2014
 
 ### Who are the founders of the company?
 
@@ -27,24 +27,24 @@
 ## 💱 Business Activities
 
 ### What specific financial problem is the company or project trying to solve?
-The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
-
-![Lending Loop Dashboard](images/dashboard.png)
-
-*[Above] The Lending Loop Dashboard*
+> The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
+> 
+> ![Lending Loop Dashboard](images/dashboard.png)
+> 
+> *[Above] The Lending Loop Dashboard*
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Lending Loop’s two primary customer groups include:
-1.	Lenders / Investors (Individuals or businesses)
-2.	Borrowers (Businesses)
-
-In 2021, the alternative finance category as a whole forecasts 4.1K loans (+0.8% YOY). Worth US$73.7million industry (+5.7% YOY). For Crowdlending to businesses, 1,100 loans (-2.3% YOY) worth US$47.9 million (+4.1% YOY) are forecast.
-
-According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecast to grow at 2.0% p/a until 2025.
-
-![Lending Loop Dashboard](images/Lending-Loop-portfolio.png)
-
-*[Above] The 'Funding' dashboard of a user with a diversified portfolio*
+> Lending Loop’s two primary customer groups include:
+> 1.	Lenders / Investors (Individuals or businesses)
+> 2.	Borrowers (Businesses)
+> 
+> In 2021, the alternative finance category as a whole forecasts 4.1K loans (+0.8% YOY). Worth US$73.7million industry (+5.7% YOY). For Crowdlending to businesses, 1,100 loans (-2.3% > YOY) worth US$47.9 million (+4.1% YOY) are forecast.
+> 
+> According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecast to grow at 2.0% p/a until 2025.
+> 
+> ![Lending Loop Dashboard](images/Lending-Loop-portfolio.png)
+> 
+> *[Above] The 'Funding' dashboard of a user with a diversified portfolio*
 
 
 
