@@ -12,7 +12,8 @@ ___
 
 ### Who are the founders of the company?
 
-![[From left] Brandon Vlaar and Cato Pastoll (CEO)](images/lending-loop-founders.jpg)
+![Brandon Vlaar and Cato Pastoll (CEO)](images/lending-loop-founders.jpg)
+*[From left] Brandon Vlaar and Cato Pastoll (CEO)*
 
 
 ### How did the idea for the company (or project) come about?
