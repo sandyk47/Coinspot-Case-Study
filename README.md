@@ -29,7 +29,7 @@ Lending Loop have received US$40 million in funding.
 ### What specific financial problem is the company or project trying to solve?
 The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
 
-![Lending Loop Dashboard](images/dashboard.jpg)
+![Lending Loop Dashboard](images/dashboard.png)
 
 *[Above] The Lending Loop Dashboard*
 
