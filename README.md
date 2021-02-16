@@ -1,6 +1,6 @@
 # Lending Loop Case Study
 
-___
+
 ## 📖 Overview and Origin
 
 
@@ -113,7 +113,7 @@ According to G2 Stack:
 
 
 
-___
+
 ## 🤝 Landscape:
 
 ### What domain of the financial industry is the company in?
@@ -153,7 +153,7 @@ Alternative Finance
 
 
  
-___
+
 ## 📊 Results
 
 ### What has been the business impact of this company so far?
@@ -196,7 +196,7 @@ As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to 
 | Progressa:	    | $27.5M                   |     
 | Affirm:		    | $4.1M                    |
 
-___
+
 ## 🎯 Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
@@ -219,7 +219,7 @@ ___
 Other Idea (not relevant to above question), but they could also consider building the back end on blockchain to enhance security and establish a trustless system.
 
  
-___
+
 ## 🔗 Sources
 * [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
 * [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
