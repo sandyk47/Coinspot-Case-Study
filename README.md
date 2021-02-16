@@ -66,96 +66,96 @@
 >*According to G2 Stack, Lending Loop utilise the following stack of technologies:*
 >
 >**Developer Stack:**
->> * Bootstrap
->> * Git
->> * HTML5
->> * Javascript
->> * Modernizr
->> * Play
->> * Ruby Ruby on Rails
->> * JQuery
+> * Bootstrap
+> * Git
+> * HTML5
+> * Javascript
+> * Modernizr
+> * Play
+> * Ruby Ruby on Rails
+> * JQuery
 >
 >**Product & Design Stack:**
->> * Adobe Typekit
->> * Fonts.com
->> * Google Fonts
+> * Adobe Typekit
+> * Fonts.com
+> * Google Fonts
 >
 >**Analytics & Data Science Stack**
->> * Amplitude
->> * Google Analytics
->> * Hotjar
+> * Amplitude
+> * Google Analytics
+> * Hotjar
 >
 >**Devops and IT Stack**
->> * Amazon CloudFront
->> * Amazon Route 53
->> * Facebook Comments
->> * Google Cloud DNS
->> * Google Domains
->> * Heroku
->> * Netlify
->> * New Relic
->> * OpenResty
->> * Vimeo
->> * Wordpress
->> * reCAPTCHA
+> * Amazon CloudFront
+> * Amazon Route 53
+> * Facebook Comments
+> * Google Cloud DNS
+> * Google Domains
+> * Heroku
+> * Netlify
+> * New Relic
+> * OpenResty
+> * Vimeo
+> * Wordpress
+> * reCAPTCHA
 >
 >**Marketing Stack**
->> * Google Tag Manager
->> * Malijet
->> * Marin Audience Marketing Suite
->> * Perfect Audience
->> * Salesforce Pardot
+> * Google Tag Manager
+> * Malijet
+> * Marin Audience Marketing Suite
+> * Perfect Audience
+> * Salesforce Pardot
 >
 >**Productivity & Operations**
->> * G Suite
+> * G Suite
 >
 >**Customer Support & Success**
->> * Help Scout
->> * Salesforce Desk.com
->> * SalesLoft
+> * Help Scout
+> * Salesforce Desk.com
+> * SalesLoft
 >
 >**HR Stack**
->> * AngelList Jobs
->> * Knit
+> * AngelList Jobs
+> * Knit
 
 
 
 ## 🤝 Landscape:
 
 ### What domain of the financial industry is the company in?
-Alternative Finance
+> Alternative Finance
 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
-* The rise of mobile technologies (5G etc.)
-* Rise in sophistication of mobile banking technologies
-* Businesses still prefer debt over equity, as it’s cheaper.
-* As of 2018, P2P lending was the most popular form of alternative finance in most developed countries around the world, besides Canada.
-* In 2016, donation-based crowqdfunding was the top alternative finance model at $105.9 million. The second most popular was balance sheet business lending at $103.3 million.
-* Cloud computing
-* Security benefits. Less reliance on in-house IT and cybersecurity experts.
-* Cybersecurity
-* The rise of crowdfunding
-* Competition between global, local and niche crowdfunding sites
+> * The rise of mobile technologies (5G etc.)
+> * Rise in sophistication of mobile banking technologies
+> * Businesses still prefer debt over equity, as it’s cheaper.
+> * As of 2018, P2P lending was the most popular form of alternative finance in most developed countries around the world, besides Canada.
+> * In 2016, donation-based crowqdfunding was the top alternative finance model at $105.9 million. The second most popular was balance sheet business lending at $103.3 million.
+> * Cloud computing
+> * Security benefits. Less reliance on in-house IT and cybersecurity experts.
+> * Cybersecurity
+> * The rise of crowdfunding
+> * Competition between global, local and niche crowdfunding sites
 
 
 
 ### What are the other major companies in this domain?
-* Borrowell
-* Lendful
-* Mogo
-* Prosper
-* Advanced Alternative Lending
-* Credit Sesame
-* Fisgard
-* Credit Karma
-* Progressa
-* Affirm
-* Clearbanc
-* Fund Through
-* Financeit
-* Zayzoon
-* GoPeer (Not major)
+> * Borrowell
+> * Lendful
+> * Mogo
+> * Prosper
+> * Advanced Alternative Lending
+> * Credit Sesame
+> * Fisgard
+> * Credit Karma
+> * Progressa
+> * Affirm
+> * Clearbanc
+> * Fund Through
+> * Financeit
+> * Zayzoon
+> * GoPeer (Not major)
 
 
  
@@ -164,33 +164,33 @@ Alternative Finance
 
 ### What has been the business impact of this company so far?
 
-As mentioned previously, Lending Loop were also instrumental in terms of advancing Canada’s lagging regulatory frameworks to enable P2P lending to take place digitally. It has since been established as Canada’s permier P2P lending platform.
-
-Lending Loop have been instrumental in making Canada’s alternative lending landscape:
-* Easier to use, more transparent and user-friendly. You can literally lend/borrow from your living room.
-* Cheaper. You can begin lending as little as CA$200. You can also join free of cost.
-* More inclusive. Although Lending Loop enforce certain eligibility requirements for businesses seeking loans, anyone is able to lend money. They also have control over their risk profile, with risk-seeking investors standing to gain as much as 26% for riskier loans.
-* More competitive. As an entirely online business, Lending Loop pay little in terms of overheads. These are savings which can then be passed onto the customer.
-
-![Lending Loop regulators](images/regulation.png)
-
-*Article from 2016, when Lending Loop abandoned the 'Uber approach', opting instead to work slowly alongside Canada's regulatory officials to ensure [compliance](https://www.canadianbusiness.com/innovation/lending-loop-reboots/)*
+> As mentioned previously, Lending Loop were also instrumental in terms of advancing Canada’s lagging regulatory frameworks to enable P2P lending to take place digitally. It has since been established as Canada’s permier P2P lending platform.
+> 
+> Lending Loop have been instrumental in making Canada’s alternative lending landscape:
+> * Easier to use, more transparent and user-friendly. You can literally lend/borrow from your living room.
+> * Cheaper. You can begin lending as little as CA$200. You can also join free of cost.
+> * More inclusive. Although Lending Loop enforce certain eligibility requirements for businesses seeking loans, anyone is able to lend money. They also have control over their risk profile, with risk-seeking investors standing > to gain as much as 26% for riskier loans.
+> * More competitive. As an entirely online business, Lending Loop pay little in terms of overheads. These are savings which can then be passed onto the customer.
+> 
+> ![Lending Loop regulators](images/regulation.png)
+> 
+> *Article from 2016, when Lending Loop abandoned the 'Uber approach', opting instead to work slowly alongside Canada's regulatory officials to ensure [compliance](https://www.canadianbusiness.com/innovation/lending-loop-reboots/)*
 
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Key metrics include
-* Loans issued
-* Value of loans
-* Number of unique borrowers
-* Defaults
-* Revenue
-
-As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to Canadian businesses, from 11,100 active lenders.
-
-![Lending Loop success article](images/LL-success.png)
-
-*Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
+> Key metrics include
+> * Loans issued
+> * Value of loans
+> * Number of unique borrowers
+> * Defaults
+> * Revenue
+> 
+> As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to Canadian businesses, from 11,100 active lenders.
+> 
+> ![Lending Loop success article](images/LL-success.png)
+> 
+> *Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
 
 ### How is your company performing relative to competitors in the same domain?
 
@@ -212,35 +212,35 @@ As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to 
 ## 🎯 Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Based on the success of ratesetter (Plenti), enable lenders to set their own desired rates of return, rather than selecting only the risk profiles of the companies they’re lending to. 
-* Add additional criteria for businesses to confirm / deny how ethical they are. Allow investors to allocate their money based on their beliefs and views.
-* Allow individuals to apply for loans.
+> * Based on the success of ratesetter (Plenti), enable lenders to set their own desired rates of return, rather than selecting only the risk profiles of the companies they’re lending to. 
+> * Add additional criteria for businesses to confirm / deny how ethical they are. Allow investors to allocate their money based on their beliefs and views.
+> * Allow individuals to apply for loans.
 
 
 ### Why do you think that offering this product or service would benefit the company?
-* For idea one above, the free market should be able to determine which rates to lock in. In a global downturn, 2 people with similar risk profiles should be able to set different rates of return for the same given level of risk. Having a system built solely off credit ratings preferences will by default give these two people the same risk profile. This isn’t as efficient as it could be.
-* This idea is based off my own beliefs. I like Raiz purely because it offers an ethical investment portfolio. I don’t even consider the unethical portfolios. I know I’m not an outlier. Many of my friends take the same attitude, and I’d be astounded if young investors didn’t feel the same way in Canada. I want my money helping the world, not hurting it.
-* This is an area Lending Loop is already losing ground to GoPeer in. If I had the choice between lending money to an A-rated individual vs a B-rated company, I’d prefer to lend it to the individual.
+> * For idea one above, the free market should be able to determine which rates to lock in. In a global downturn, 2 people with similar risk profiles should be able to set different rates of return for the same given level of > risk. Having a system built solely off credit ratings preferences will by default give these two people the same risk profile. This isn’t as efficient as it could be.
+> * This idea is based off my own beliefs. I like Raiz purely because it offers an ethical investment portfolio. I don’t even consider the unethical portfolios. I know I’m not an outlier. Many of my friends take the same > attitude, and I’d be astounded if young investors didn’t feel the same way in Canada. I want my money helping the world, not hurting it.
+> * This is an area Lending Loop is already losing ground to GoPeer in. If I had the choice between lending money to an A-rated individual vs a B-rated company, I’d prefer to lend it to the individual.
 
 
 ### What technologies would this additional product or service utilize?
-* AI (Machine Learning) for determining credit scores.
-* Robo Advisory technologies
-* Regtech
-
-Other Idea (not relevant to above question), but they could also consider building the back end on blockchain to enhance security and establish a trustless system.
+> * AI (Machine Learning) for determining credit scores.
+> * Robo Advisory technologies
+> * Regtech
+> 
+> Other Idea (not relevant to above question), but they could also consider building the back end on blockchain to enhance security and establish a trustless system.
 
  
 
 ## 🔗 Sources
-* [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
-* [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
-* [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
-* [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
-* [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
-* [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
-* [**Lending Loop** - Can I create a custom risk plan? How?](https://support.lendingloop.ca/article/105-can-i-create-a-custom-risk-plan-how)
-* [**Savvy New Canadians** - Lending Loop Review: Peer-to-Peer Lending for Canadians](https://www.savvynewcanadians.com/lending-loop-review/)
-* [**Early 20s Money** - My Experience With Peer to Peer Lending: Lending Loop Review](https://early20smoney.com/2018/11/29/lending-loop-review/)
+> * [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
+> * [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
+> * [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
+> * [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
+> * [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
+> * [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
+> * [**Lending Loop** - Can I create a custom risk plan? How?](https://support.lendingloop.ca/article/105-can-i-create-a-custom-risk-plan-how)
+> * [**Savvy New Canadians** - Lending Loop Review: Peer-to-Peer Lending for Canadians](https://www.savvynewcanadians.com/lending-loop-review/)
+> * [**Early 20s Money** - My Experience With Peer to Peer Lending: Lending Loop Review](https://early20smoney.com/2018/11/29/lending-loop-review/)
 
  
