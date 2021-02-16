@@ -50,15 +50,11 @@ According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecas
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-For one, trust. Lending Loop has a first mover advantage, in that it is Canada’s first approved online P2P lending platform.
-
-Two, control, transparency and flexibility. Lenders can literally tailor their own risk profile and investment appetite, then have it matched to borrowers based on those preferences. 
-
-Three, cost savings. Less reliance on intermediaries charging their own markups and fees.
-
-Fourth, there are few competitors in this space offering a similar product. Lending Loop worked alongside Canada’s regulatory bodies to overcome key hurdles and challenges for P2P lending. There are still major hurdles in place.
-
-Fifth, specialisation. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
+1. **Trust**. Lending Loop has a first mover advantage, in that it is Canada’s first approved online P2P lending platform.
+2. **Control**. transparency and flexibility. Lenders can literally tailor their own risk profile and investment appetite, then have it matched to borrowers based on those preferences. 
+3. **Cost Savings**. Less reliance on intermediaries charging their own markups and fees.
+4. **Uniqueness**.there are few competitors in this space offering a similar product. Lending Loop worked alongside Canada’s regulatory bodies to overcome key hurdles and challenges for P2P **lending**. There are still major hurdles in place.
+5. **Specialisation**. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
 
 ![Lending Loop Dashboard](images/lending-loop-risks.jpg)
 
@@ -69,58 +65,58 @@ Fifth, specialisation. Lending Loop specialises in loans to small businesses. Ne
 
 According to G2 Stack:
 
-#### Developer Stack:
-* Bootstrap
-* Git
-* HTML5
-* Javascript
-* Modernizr
-* Play
-* Ruby Ruby on Rails
-* JQuery
+> Developer Stack:
+>> Bootstrap
+>> Git
+>> HTML5
+>> Javascript
+>> Modernizr
+>> Play
+>> Ruby Ruby on Rails
+>> JQuery
 
-#### Product & Design Stack:
-* Adobe Typekit
-* Fonts.com
-* Google Fonts
+> Product & Design Stack:
+>> Adobe Typekit
+>> Fonts.com
+>> Google Fonts
 
-#### Analytics & Data Science Stack
-* Amplitude
-* Google Analytics
-* Hotjar
+> Analytics & Data Science Stack
+>> Amplitude
+>> Google Analytics
+>> Hotjar
 
-#### Devops and IT Stack
-* Amazon CloudFront
-* Amazon Route 53
-* Facebook Comments
-* Google Cloud DNS
-* Google Domains
-* Heroku
-* Netlify
-* New Relic
-* OpenResty
-* Vimeo
-* Wordpress
-* reCAPTCHA
+> Devops and IT Stack
+>> Amazon CloudFront
+>> Amazon Route 53
+>> Facebook Comments
+>> Google Cloud DNS
+>> Google Domains
+>> Heroku
+>> Netlify
+>> New Relic
+>> OpenResty
+>> Vimeo
+>> Wordpress
+>> reCAPTCHA
 
-#### Marketing Stack
-* Google Tag Manager
-* Malijet
-* Marin Audience Marketing Suite
-* Perfect Audience
-* Salesforce Pardot
+> Marketing Stack
+>> Google Tag Manager
+>> Malijet
+>> Marin Audience Marketing Suite
+>> Perfect Audience
+>> Salesforce Pardot
 
-#### Productivity & Operations
-* G Suite
+> Productivity & Operations
+>> G Suite
 
-#### Customer Support & Success
-* Help Scout
-* Salesforce Desk.com
-* SalesLoft
+> Customer Support & Success
+>> Help Scout
+>> Salesforce Desk.com
+>> SalesLoft
 
-#### HR Stack
-* AngelList Jobs
-* Knit
+> HR Stack
+>> AngelList Jobs
+>> Knit
 
 
 
@@ -237,5 +233,8 @@ Other Idea (not relevant to above question), but they could also consider buildi
 * [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
 * [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
 * [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
+* [**Lending Loop** - Can I create a custom risk plan? How?](https://support.lendingloop.ca/article/105-can-i-create-a-custom-risk-plan-how)
+* [**Savvy New Canadians** - Lending Loop Review: Peer-to-Peer Lending for Canadians](https://www.savvynewcanadians.com/lending-loop-review/)
+* [**Early 20s Money** - My Experience With Peer to Peer Lending: Lending Loop Review](https://early20smoney.com/2018/11/29/lending-loop-review/)
 
  
