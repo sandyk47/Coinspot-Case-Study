@@ -29,6 +29,9 @@ Lending Loop have received US$40 million in funding.
 ### What specific financial problem is the company or project trying to solve?
 The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
 
+![Lending Loop Dashboard](images/dashboard.jpg)
+
+*[Above] The Lending Loop Dashboard*
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 Lending Loop’s two primary customer groups include:
@@ -38,6 +41,12 @@ Lending Loop’s two primary customer groups include:
 In 2021, the alternative finance category as a whole forecasts 4.1K loans (+0.8% YOY). Worth US$73.7million industry (+5.7% YOY). For Crowdlending to businesses, 1,100 loans (-2.3% YOY) worth US$47.9 million (+4.1% YOY) are forecast.
 
 According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecast to grow at 2.0% p/a until 2025.
+
+![Lending Loop Dashboard](images/Lending-Loop-portfolio.png)
+
+*[Above] The 'Funding' dashboard of a user with a diversified portfolio*
+
+
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -51,6 +60,9 @@ Fourth, there are few competitors in this space offering a similar product. Lend
 
 Fifth, specialisation. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
 
+![Lending Loop Dashboard](images/lending-loop-risks.jpg)
+
+*[Above] Some examples of the different risk profiles lenders can choose from*
 
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
@@ -109,8 +121,6 @@ According to G2 Stack:
 #### HR Stack
 * AngelList Jobs
 * Knit
-
-
 
 
 
