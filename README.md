@@ -1,6 +1,7 @@
 # Coinspot-Case-Study
 
 ## 📖 Overview and Origin
+___
 
 ### Name of company
 Lending Loop
@@ -105,7 +106,10 @@ According to G2 Stack:
 * Knit
 
 
+
+
 ## 🤝 Landscape:
+___
 
 ### What domain of the financial industry is the company in?
 Alternative Finance
@@ -145,6 +149,7 @@ Alternative Finance
 
  
 ## 📊 Results
+___
 
 ### What has been the business impact of this company so far?
 
@@ -187,6 +192,7 @@ As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to 
 | Affirm:		    | $4.1M                    |
 
 ## 🎯 Recommendations
+___
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 * Based on the success of ratesetter (Plenti), enable lenders to set their own desired rates of return, rather than selecting only the risk profiles of the companies they’re lending to. 
@@ -208,11 +214,13 @@ As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to 
 Other Idea (not relevant to above question), but they could also consider building the back end on blockchain to enhance security and establish a trustless system.
 
  
-## 🔗 Sources:
+## 🔗 Sources
+___
 * [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
 * [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
 * [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
 * [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
 * [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
+* [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
 
  
