@@ -28,20 +28,20 @@
 
 ### What specific financial problem is the company or project trying to solve?
 > The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
-> 
+>  ---
 > ![Lending Loop Dashboard](images/dashboard.png)
 > 
 > *[Above] The Lending Loop Dashboard*
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 > Lending Loop’s two primary customer groups include:
-> 1.	Lenders / Investors (Individuals or businesses)
-> 2.	Borrowers (Businesses)
+> 1.	**Lenders / Investors** (Individuals or businesses)
+> 2.	**Borrowers (Businesses)**
 > 
 > In 2021, the alternative finance category as a whole forecasts 4.1K loans (+0.8% YOY). Worth US$73.7million industry (+5.7% YOY). For Crowdlending to businesses, 1,100 loans (-2.3% > YOY) worth US$47.9 million (+4.1% YOY) are forecast.
 > 
 > According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecast to grow at 2.0% p/a until 2025.
-> 
+> ---
 > ![Lending Loop Dashboard](images/Lending-Loop-portfolio.png)
 > 
 > *[Above] The 'Funding' dashboard of a user with a diversified portfolio*
@@ -55,7 +55,7 @@
 > 3. **Cost Savings**. Less reliance on intermediaries charging their own markups and fees.
 > 4. **Uniqueness**.there are few competitors in this space offering a similar product. Lending Loop worked alongside Canada’s regulatory bodies to overcome key hurdles and challenges > for P2P **lending**. There are still major hurdles in place.
 > 5. **Specialisation**. Lending Loop specialises in loans to small businesses. Newer competitors on the market such as GoPeer are focusing on P2P lending to individuals. Comparatively, > bigger players in this space (such as Borowell) tend to draw funds from institutional investors.
-> 
+> ---
 > ![Lending Loop Dashboard](images/lending-loop-risks.jpg)
 > 
 > *[Above] Some examples of the different risk profiles lenders can choose from*
@@ -168,7 +168,7 @@
 > * Cheaper. You can begin lending as little as CA$200. You can also join free of cost.
 > * More inclusive. Although Lending Loop enforce certain eligibility requirements for businesses seeking loans, anyone is able to lend money. They also have control over their risk profile, with risk-seeking investors standing > to gain as much as 26% for riskier loans.
 > * More competitive. As an entirely online business, Lending Loop pay little in terms of overheads. These are savings which can then be passed onto the customer.
-> 
+> ---
 > ![Lending Loop regulators](images/regulation.png)
 > 
 > *Article from 2016, when Lending Loop abandoned the 'Uber approach', opting instead to work slowly alongside Canada's regulatory officials to ensure [compliance](https://www.canadianbusiness.com/innovation/lending-loop-reboots/)*
@@ -184,7 +184,7 @@
 > * Revenue
 > 
 > As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to Canadian businesses, from 11,100 active lenders.
-> 
+> ---
 > ![Lending Loop success article](images/LL-success.png)
 > 
 > *Article from 2019, when Lending Loop first topped [$50M in loans](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)*
