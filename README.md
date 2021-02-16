@@ -127,16 +127,13 @@
 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
-> * The rise of mobile technologies (5G etc.)
-> * Rise in sophistication of mobile banking technologies
-> * Businesses still prefer debt over equity, as it’s cheaper.
-> * As of 2018, P2P lending was the most popular form of alternative finance in most developed countries around the world, besides Canada.
-> * In 2016, donation-based crowqdfunding was the top alternative finance model at $105.9 million. The second most popular was balance sheet business lending at $103.3 million.
-> * Cloud computing
-> * Security benefits. Less reliance on in-house IT and cybersecurity experts.
-> * Cybersecurity
-> * The rise of crowdfunding
-> * Competition between global, local and niche crowdfunding sites
+> * The rise of **mobile technologies** (5G etc.)
+> * Rise in sophistication of **mobile banking** technologies
+> * Businesses still prefer **debt over equity**, as it’s cheaper.
+> * As of 2018, **P2P lending was the most popular** form of alternative finance in most developed countries around the world, besides Canada.
+> * In 2016, **donation-based crowdfunding** was Canada's top alternative finance model at $105.9 million. The second most popular was **balance sheet business lending** at $103.3 million.
+> * **Cloud computing** enabled the decentralisation of operations, including security and privacy
+> * **Crowdfunding** experienced a boom, paving the way for strong competition between global, local and niche crowdfunding sites
 
 
 
