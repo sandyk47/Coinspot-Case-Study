@@ -18,11 +18,11 @@
 
 
 ### How did the idea for the company (or project) come about?
-By identifying inefficiencies surrounding bank lending processes in Canada. Notably, that individuals and businesses are being excluded from the lending process, leaving a significant amount of capital off the table. Lending Loop was the first company in Canada to support P2P lending in Canada.
+> By identifying inefficiencies surrounding bank lending processes in Canada. Notably, that individuals and businesses are being excluded from the lending process, leaving a significant amount of capital off the table. Lending Loop was the first company in Canada to support P2P lending in Canada.
 
 
 ### How is the company funded? How much funding have they received?
-Lending Loop have received US$40 million in funding.
+> Lending Loop have received US$40 million in funding.
 
 ## 💱 Business Activities
 
