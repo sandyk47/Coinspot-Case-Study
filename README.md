@@ -28,6 +28,7 @@
 
 ### What specific financial problem is the company or project trying to solve?
 > The issue of individuals being excluded from the lending market, meaning small businesses have limited access to loans from potential investors who may be less risk-averse than banks.
+> 
 >  ---
 > ![Lending Loop Dashboard](images/dashboard.png)
 > 
@@ -41,6 +42,7 @@
 > In 2021, the alternative finance category as a whole forecasts 4.1K loans (+0.8% YOY). Worth US$73.7million industry (+5.7% YOY). For Crowdlending to businesses, 1,100 loans (-2.3% > YOY) worth US$47.9 million (+4.1% YOY) are forecast.
 > 
 > According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecast to grow at 2.0% p/a until 2025.
+>
 > ---
 > ![Lending Loop Dashboard](images/Lending-Loop-portfolio.png)
 > 
@@ -184,6 +186,7 @@
 > * Revenue
 > 
 > As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to Canadian businesses, from 11,100 active lenders.
+> 
 > ---
 > ![Lending Loop success article](images/LL-success.png)
 > 
@@ -230,19 +233,19 @@
  
 
 ## 🔗 Sources
-> * [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
-> * [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
-> * [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
-> * [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
-> * [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
-> * [**Lending Loop** - Company website](https://www.lendingloop.ca/)
-> * [**Crowdfund Insider** - Canada: goPeer Now Allows All Investors to Participate in Lending](https://www.crowdfundinsider.com/2020/09/166043-canada-gopeer-now-allows-all-investors-to-participate-in-lending/)
-> * [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
-> * [**Lending Loop** - Can I create a custom risk plan? How?](https://support.lendingloop.ca/article/105-can-i-create-a-custom-risk-plan-how)
-> * [**Savvy New Canadians** - Lending Loop Review: Peer-to-Peer Lending for Canadians](https://www.savvynewcanadians.com/lending-loop-review/)
-> * [**Early 20s Money** - My Experience With Peer to Peer Lending: Lending Loop Review](https://early20smoney.com/2018/11/29/lending-loop-review/)
-> * [**andrewmurraytv (Youtube)** - Lending Loop: New Loan Options + Express Loans | Am I Using Lending Loop in 2021?](https://www.youtube.com/watch?v=ApI78oM6sJc&ab_channel=andrewmurraytv)
-> * [**CBC** - Why peer lending and savings groups persist — especially in a pandemic](https://www.cbc.ca/radio/costofliving/the-bubbling-price-of-collectibles-mid-pandemic-sports-bubbles-and-sharing-money-inside-your-social-bubble-1.5911184/why-peer-lending-and-savings-groups-persist-especially-in-a-pandemic-1.5911187)
-> * [**Peer 2 Peer Finance News** - First consumer P2P lender gets set to launch in Canada](https://www.p2pfinancenews.co.uk/2020/01/31/first-consumer-p2p-lender-gets-set-to-launch-in-canada/)
+ * [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
+ * [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
+ * [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
+ * [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
+ * [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
+ * [**Lending Loop** - Company website](https://www.lendingloop.ca/)
+ * [**Crowdfund Insider** - Canada: goPeer Now Allows All Investors to Participate in Lending](https://www.crowdfundinsider.com/2020/09/166043-canada-gopeer-now-allows-all-investors-to-participate-in-lending/)
+ * [**Toronto Guardian** - Homegrown Business: Lending Loop connects businesses to investors](https://torontoguardian.com/2018/11/homegrown-business-lending-loop/)
+ * [**Lending Loop** - Can I create a custom risk plan? How?](https://support.lendingloop.ca/article/105-can-i-create-a-custom-risk-plan-how)
+ * [**Savvy New Canadians** - Lending Loop Review: Peer-to-Peer Lending for Canadians](https://www.savvynewcanadians.com/lending-loop-review/)
+ * [**Early 20s Money** - My Experience With Peer to Peer Lending: Lending Loop Review](https://early20smoney.com/2018/11/29/lending-loop-review/)
+ * [**andrewmurraytv (Youtube)** - Lending Loop: New Loan Options + Express Loans | Am I Using Lending Loop in 2021?](https://www.youtube.com/watch?v=ApI78oM6sJc&ab_channel=andrewmurraytv)
+ * [**CBC** - Why peer lending and savings groups persist — especially in a pandemic](https://www.cbc.ca/radio/costofliving/the-bubbling-price-of-collectibles-mid-pandemic-sports-bubbles-and-sharing-money-inside-your-social-bubble-1.5911184/why-peer-lending-and-savings-groups-persist-especially-in-a-pandemic-1.5911187)
+ * [**Peer 2 Peer Finance News** - First consumer P2P lender gets set to launch in Canada](https://www.p2pfinancenews.co.uk/2020/01/31/first-consumer-p2p-lender-gets-set-to-launch-in-canada/)
 
  
