@@ -208,10 +208,10 @@ Other Idea (not relevant to above question), but they could also consider buildi
 
  
 ## 🔗 Sources:
-[**Statista - Crowdlending Businesses in Canada**](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
-[**Crunchbase - Lending Loop Company Snapshot**](https://www.crunchbase.com/organization/lending-loop/technology)
-[**Owler - Lending Loop Company Profile**](https://www.owler.com/company/lendingloop)
-[**Maple Money - Lending Loop Review**](https://maplemoney.com/lending-loop-review/)
-[**G2 Stack - Lending Loop Stack**](https://stack.g2.com/company/lendingloop)
+* [**Statista** - Crowdlending Businesses in Canada](https://www.statista.com/outlook/334/108/crowdlending--business-/canada)
+* [**Crunchbase** - Lending Loop Company Snapshot](https://www.crunchbase.com/organization/lending-loop/technology)
+* [**Owler** - Lending Loop Company Profile](https://www.owler.com/company/lendingloop)
+* [**Maple Money** - Lending Loop Review](https://maplemoney.com/lending-loop-review/)
+* [**G2 Stack** - Lending Loop Stack](https://stack.g2.com/company/lendingloop)
 
  
