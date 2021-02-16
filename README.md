@@ -63,7 +63,7 @@ According to Statista, the CAGR 2021-25 of crowdlending to businesses is forecas
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-According to G2 Stack:
+*According to G2 Stack, Lending Loop utilise the following stack of technologies:*
 
 **Developer Stack:**
 > * Bootstrap
@@ -171,6 +171,10 @@ Lending Loop have been instrumental in making Canada’s alternative lending lan
 * Cheaper. You can begin lending as little as CA$200. You can also join free of cost.
 * More inclusive. Although Lending Loop enforce certain eligibility requirements for businesses seeking loans, anyone is able to lend money. They also have control over their risk profile, with risk-seeking investors standing to gain as much as 26% for riskier loans.
 * More competitive. As an entirely online business, Lending Loop pay little in terms of overheads. These are savings which can then be passed onto the customer.
+
+![Lending Loop success article](images/LL-success.png)
+
+This is a [test...](https://www.crowdfundinsider.com/2019/09/151474-canada-peer-to-peer-lender-lending-loop-tops-50-million-in-loans/)
 
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
