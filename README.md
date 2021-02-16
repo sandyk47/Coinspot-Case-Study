@@ -173,17 +173,18 @@ As of February 2021, Lending Loop has overseen the lending of CA$70 Million+ to 
 ### How is your company performing relative to competitors in the same domain?
 
 
-Brand:		Estimated Annual Revenue
-Lending Loop: 	$3M
-Borrowell:	$2.1M
-Lendful:	$11M
-Mogo:		$39.9M
-Prosper:	$127.9M
-AAL:		$1.2M
-Credit Sesame:	$45M
-Credit Karma:	$1B
-Progressa:	$27.5M
-Affirm:		$4.1M
+| Brand:		    | Estimated Annual Revenue |
+| ------------------|:------------------------:|     
+| Lending Loop: 	| $3M                      | 
+| Borrowell:	    | $2.1M                    | 
+| Lendful:	        | $11M                     | 
+| Mogo:		        | $39.9M                   |     
+| Prosper:	        | $127.9M                  |     
+| AAL:		        | $1.2M                    | 
+| Credit Sesame:	| $45M                     | 
+| Credit Karma:	    | $1B                      | 
+| Progressa:	    | $27.5M                   |     
+| Affirm:		    | $4.1M                    | 
  
 ## 🎯 Recommendations
 
